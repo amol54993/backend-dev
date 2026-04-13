@@ -1,0 +1,22 @@
+
+{
+  "name": "bridgelabz-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasingh4441/Bridge-Labz-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityasingh4441/Bridge-Labz-nodejs/issues"
+  },
+  "homepage": "https://github.com/adityasingh4441/Bridge-Labz-nodejs#readme"
+}
